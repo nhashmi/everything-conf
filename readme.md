@@ -2,9 +2,9 @@
 
 ## Learning objectives
 
-1. What does scraping mean?
-2. Why would you want to scrape data?
-3. What are some useful gems and libraries that I can use to scrape data?
+1. Define 'scraping'?
+2. Compare scraping to other methods of using data. Give an example of a good use case for scraping.
+3. Name some libraries that can be used to facilitate scraping.
 
 
 ## Examples

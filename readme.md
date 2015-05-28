@@ -32,7 +32,7 @@ You might want to use web scraping when you can't use an API or download a forma
 
 [Mechanize](https://github.com/sparklemotion/mechanize) is a helpful gem that makes it easy to interact with web pages. You can click elements on the page and fill out forms easily. The pages returned respond to Nokogiri methods.
 
-Let's try scraping the top five items on reddit's front page and the top comment about that item.
+Let's try scraping the items on reddit's front page.
 
 To get started, install the mechanize gem:
 

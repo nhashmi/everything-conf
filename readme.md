@@ -58,7 +58,7 @@ site_table = page.search("div.sitetable")
 # Uncomment to inspect the object returned by Mechanize
 # p page
 
-# Get all <a> elements with a class of 'title'
+# Get all <div> elements with a class of 'thing'
 divs = site_table.search("div.thing")
 
 # Only select <div> elements that have a rank
